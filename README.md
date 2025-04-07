@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-hyuank/hyuank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![hyuank's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuank)](https://github.com/hyuank/github-readme-stats)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=huiyuank.huiyuank)
+
